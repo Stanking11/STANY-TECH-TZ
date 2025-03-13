@@ -1,3 +1,3 @@
 {
-  "Name": "ElitePro-PairCode"
+  "Name": "StanyTech-PairCode"
 }

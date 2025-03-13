@@ -92,18 +92,19 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./sessions`)
             await delay(1000 * 2) 
              const xeonses = await  EliteProEmpire.sendMessage(EliteProEmpire.user.id, { document: sessionXeon, mimetype: `application/json`, fileName: `creds.json` })
              await EliteProEmpire.sendMessage(EliteProEmpire.user.id, { text: `*╭❍* *SUCCESSFULLY CONNECTED* *❍*
+
 *┊* Please support our channels
 *┊*❶  || *ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ* =
-https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g
+https://whatsapp.com/channel/0029Vb8ixZ6DOQIPoX014p1k
 *┊*❷ || *ᴛᴇʟᴇɢʀᴀᴍ* =
-https://t.me/elitepro_md
+https://t.me/stanytech
 *┊*➌ || *ʏᴏᴜᴛᴜʙᴇ* =
-https://youtube.com/@elitepro-empire
+https://youtube.com/@stanleytechnology?si=FRItJCOs0nWSADoq
 *┊* 📛Don't share code with anyone.
 *┊* *ᴠɪꜱɪᴛ ᴏᴜʀ ᴡᴇʙꜱɪᴛᴇ ғᴏʀ ᴍᴏʀᴇ*
 https://elite-production.vercel.app
 *┊* Upload the file on session folder.
-*╰═❍* *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴇʟɪᴛᴇ-ᴘʀᴏ*` }, {quoted: xeonses});
+*╰═❍* *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ©𝚂𝚃𝙰𝙽𝚈-𝚃𝙴𝙲𝙷™*` }, {quoted: xeonses});
               await delay(1000 * 2) 
               process.exit(0)
         }
